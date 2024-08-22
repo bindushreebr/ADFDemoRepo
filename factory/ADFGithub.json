@@ -1,0 +1,9 @@
+{
+	"name": "ADFGithub",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f230a98-4e73-46ac-8515-896c5c2a9f58",
+		"tenantId": "40a6b057-bcd1-4148-9dc0-0c60baa6b976"
+	}
+}
